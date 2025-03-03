@@ -42,7 +42,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: your-dockerhub-username/234-deploylab-backend:latest
+          tags: jager777/234-deploylab-backend:latest
 
       - name: Copy file via SSH
         uses: appleboy/scp-action@v0.1.7
