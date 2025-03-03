@@ -11,5 +11,5 @@ public class Lab10ApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
+// Lab 10 - Security scan test
 }
